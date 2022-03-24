@@ -8,7 +8,7 @@ detail_image:
 
 ---
 # Felix's Website
-![hello in a computer](./assets/hello_world.jpg)
+![hello](assets/hello_world.jpg)
 
 **WELCOME TO MY WEBSITE!!**  
 
