@@ -4,11 +4,11 @@ permalink: /
 permalink_name: /home
 title: Felix' Website
 
-detail_image: assets/hello.svg
+detail_image:
 
 ---
-
 # Felix's Website
+![hello in a computer](./assets/hello%20world.jpg)
 
 **WELCOME TO MY WEBSITE!!**  
 
