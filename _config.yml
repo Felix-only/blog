@@ -24,6 +24,6 @@ header_pages:
   - preview.md
 
 # set the size of the text to 'large' or 'small', default is small
-font-size: small
+font-size: large
 
 
