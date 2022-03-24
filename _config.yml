@@ -1,14 +1,17 @@
-title: "jekyll-shell-theme"
+title: "Felix's Website"
 tagline: "A jekyll theme that looks like a shell/terminal"
 description: "This is a preview of jekyll-shell-theme."
 github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+baseurl: "/blog"
+url: "https://Felix-only.github.io"
 
 plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# Including jekyll-shell-theme using the jekyll-remote-theme plugin
+remote_theme: tareqdandachi/jekyll-shell-theme
 
 sass:
   style: compressed
@@ -22,3 +25,5 @@ header_pages:
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: small
+
+
