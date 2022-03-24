@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: Felix' Website
 
-detail_image: assets/DesignAndTechnology.svg
+detail_image: assets/hello.svg
 
 ---
 
