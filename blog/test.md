@@ -1,7 +1,5 @@
 ---
 layout: page
-permalink: /preview
-permalink_name: /preview
 title: Test
 ---
 
