@@ -16,4 +16,3 @@ detail_image: assets/theme_logo.svg
 
 [/preview](preview).
 
-[link](https://felix-only.github.io/movie/)
