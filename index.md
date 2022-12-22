@@ -8,7 +8,8 @@ detail_image:
 
 ---
 # Felix's Website
-![hello](assets/hello_world.jpg)
+
+<img src="assets/hello_world.jpg" width =400>
 
 **WELCOME TO MY WEBSITE!!**  
 
